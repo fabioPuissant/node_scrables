@@ -1,14 +1,14 @@
 {
-  "name": "oef3",
+  "name": "oef6",
   "version": "1.0.0",
   "description": "",
-  "main": "oef3_node.js",
+  "main": "oef6_node.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "path": "^0.12.7"
   }
 }
